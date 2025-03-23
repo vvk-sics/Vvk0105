@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vivek
-- 👀 I’m interested in coding web pages,applications
-- 🌱 I’m currently learning Python Django
+- 👀 I’m interested in coding
+- 🌱 I’m Python Developer
 - 💞️ I’m looking to collaborate on web development or application projects
 - 📫 How to reach me 7306533356
 
